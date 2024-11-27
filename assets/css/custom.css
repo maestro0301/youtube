@@ -1,0 +1,76 @@
+header{
+    box-shadow: 4px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.items-center {
+    align-items: center;
+}
+
+
+.logo {
+    width: 96px;
+}
+
+.profile-img {
+    height: 24px;
+}
+
+
+.search-input {
+    height: 28px;
+    border: none 1px grey;
+    background-color: rgb(235, 233, 233);
+    border-radius: 4px;
+    width: 516px;
+}
+
+.container {
+    padding: 16px;
+}
+
+.fs-sm {
+    font-size: smaller;
+}
+
+
+.fs-md {
+    font-size: medium;
+}
+
+
+.fs-lg {
+    font-size: large;
+}
+
+
+.fs-xl {
+    font-size: x-large;
+}
+
+.text-grey {
+    color: lightgray;
+}
+
+.ms-2 {
+    margin-left: 8px;
+}
+
+.profile {
+    border-radius: 9999px;
+    width: 24px;
+    height: 24px;
+    background-color: lightgray;
+}
